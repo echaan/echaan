@@ -21,6 +21,15 @@ I'm an Information Systems student at Universitas Islam Negeri Sultan Syarif Kas
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/echaan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 📫 **Get in Touch:**  
 - 🐙 GitHub: [github.com/echaan](https://github.com/echaan)
 - 💼 LinkedIn: [linkedin.com/in/m-eric-chaniago-994684232](https://www.linkedin.com/in/m-eric-chaniago-994684232/)
