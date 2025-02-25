@@ -23,11 +23,12 @@ I'm an Information Systems student at Universitas Islam Negeri Sultan Syarif Kas
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/echaan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=echaan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=echaan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/echaan">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=echaan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echaan&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
 
 
 📫 **Get in Touch:**  
