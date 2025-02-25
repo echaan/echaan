@@ -22,13 +22,9 @@ I'm an Information Systems student at Universitas Islam Negeri Sultan Syarif Kas
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Github Statistic
-<p align="left">
-  <a href="https://github.com/echaan">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=echaan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echaan&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=echaan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="echaan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echaan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="echaan's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=echaan&theme=tokyonight&hide_border=true" alt="echaan's GitHub Stats" />
 
 
 📫 **Get in Touch:**  
