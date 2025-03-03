@@ -1,35 +1,18 @@
-### Hi there! I'm M. Eric Chaniago 👋✨
+<h1 align="center">Hi there, I'm M. Eric Chaniago</h1>
 
-I'm an Information Systems student at Universitas Islam Negeri Sultan Syarif Kasim Riau, passionate about web development 💻, data science 📊, and software engineering 🛠️. I enjoy working with technologies like Laravel, CodeIgniter, and Bootstrap, as well as exploring machine learning techniques for data analysis 🤖.
+<p align="center">
+Hi, My name is M. Eric Chaniago. I’m student of Information System at State Islamic University Of Sultan Syarif Kasim Riau
+I have huge interest in Software Engineering & Machine Learning.
+</p>
 
-🔹 **Interests:**
-- 🌍 Web development (CodeIgniter, Bootstrap)
-- 🤖 Machine learning (KNN, C4.5, Naive Bayes, Random Forest, etc.)
-- 🗄️ Database management (MySQL)
-- 🏗️ System testing & enterprise architecture
+<br>
+<h3 align="center">My Github's Stats</h3>
+<hr>
 
-🔹 **Projects & Experience:**
-- ✉️ Built a **contact form with an email system** that stores messages in the system.
-- 🏥 Conducted research on **obesity estimation using machine learning** with UCI dataset.
-- 🎨 Developed a **responsive school homepage** using Bootstrap.
-
-🔹 **Tech Stack:**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Github Statistic
-<img src="https://github-readme-stats.vercel.app/api?username=echaan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="echaan's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echaan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="echaan's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=echaan&theme=tokyonight&hide_border=true" alt="echaan's GitHub Stats" />
-
-
-📫 **Get in Touch:**  
-- 🐙 GitHub: [github.com/echaan](https://github.com/echaan)
-- 💼 LinkedIn: [linkedin.com/in/m-eric-chaniago-994684232](https://www.linkedin.com/in/m-eric-chaniago-994684232/)
-- 📩 Email: [akkitherythm@gmail.com](mailto:akkitherythm@gmail.com)
-
-Let's collaborate and build something awesome together! 🚀🔥
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=echaan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="echaan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echaan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="echaan's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=echaan&theme=tokyonight&hide_border=true" alt="echaan's GitHub Stats" />
+</p>
+<hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=echaan&label=echaan%20Profile%20Views%20" alt="echaan" /> </p>
