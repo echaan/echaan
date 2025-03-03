@@ -10,9 +10,9 @@ I have huge interest in Software Engineering & Machine Learning.
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=echaan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="echaan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echaan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="echaan's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=echaan&theme=tokyonight&hide_border=true" alt="echaan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=echaan&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="echaan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echaan&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="echaan's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=echaan&theme=github_dark&hide_border=true" alt="echaan's GitHub Stats" />
 </p>
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=echaan&label=echaan%20Profile%20Views%20" alt="echaan" /> </p>
