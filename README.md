@@ -5,6 +5,11 @@ Hi, My name is M. Eric Chaniago. I’m student of Information System at State Is
 I have huge interest in Software Engineering & Machine Learning.
 </p>
 
+<p align="center">
+  🌐 Check out my portfolio:  
+  <a href="https://echaan.github.io/eric-portfolio/" target="_blank"><b>echaan.github.io/eric-portfolio</b></a>
+</p>
+
 <br>
 <h3 align="center">My Github's Stats</h3>
 <hr>
